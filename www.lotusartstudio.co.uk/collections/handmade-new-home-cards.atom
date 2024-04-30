@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lotusartstudio.co.uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lotusartstudio.co.uk/collections/handmade-new-home-cards.atom"/>
+  <title>Lotus Art Studio</title>
+  <updated>2021-07-20T13:48:01+01:00</updated>
+  <author>
+    <name>Lotus Art Studio</name>
+  </author>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/6833638998176</id>
+    <published>2021-07-20T13:48:01+01:00</published>
+    <updated>2021-07-20T13:48:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-boxed-personalised-new-home-card-home-sweet-home"/>
+    <title>A5 Boxed Personalised New Home Card &apos;Home Sweet Home&apos;</title>
+    <s:type>New Home Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/102NHC-1.jpg?v=1626785452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>New Home Cards<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send your best wishes and good luck for newly home owners with classy 'Home Sweet Home' handmade card. The card features Home Sweet Home laser cut wooden house mounted in the middle of the card and decorated with crystals, artificial flowers and ribbon roses, natural dried flax and crystals.</p>
+<p>The card comes in a lovely presentation box. It can be personalised in whatever way you want, including the front and inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/6833638998176</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">19.95</s:price>
+      <s:sku>102NHC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/6826833182880</id>
+    <published>2021-07-16T21:18:45+01:00</published>
+    <updated>2021-07-16T21:18:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-luxury-boxed-personalised-handmade-card-new-home"/>
+    <title>A5 Luxury Boxed Personalised Handmade Card ‘New Home’</title>
+    <s:type>New Home Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/101NHC-1.jpg?v=1626466335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>New Home Cards<br>
+        <strong>Price: </strong>
+            23.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>There is no better feeling than when receiving the key to your new home - that's why we think this card will be just perfect to congratulate new home owners and wish them good luck in their new home. The design features a bouquet made from ribbon roses, dry grasses, artificial and real dry flowers. The whole arrangement is handcrafted with crystals, mini flowers and a lovely dusky pink bow with wooden key.</p>
+<p>The card comes in a lovely presentation box and can be personalised with own message on front and inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/6826833182880</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">23.75</s:price>
+      <s:sku>101NHC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+</feed>

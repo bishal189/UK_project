@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lotusartstudio.co.uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lotusartstudio.co.uk/collections/handmade-wedding-cards.atom"/>
+  <title>Lotus Art Studio</title>
+  <updated>2022-04-29T15:29:01+01:00</updated>
+  <author>
+    <name>Lotus Art Studio</name>
+  </author>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7679247057144</id>
+    <published>2022-04-29T15:29:01+01:00</published>
+    <updated>2022-04-29T15:29:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-luxury-boxed-handmade-card-lilac-dream"/>
+    <title>A4 Luxury Boxed Handmade Card ‘Lilac Dream’</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/502WED-4_a5ff9470-a863-4cfe-a63b-0c89ac8eedab.jpg?v=1657794872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            43.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A lovely luxury boxed wedding card to congratulate a newlywed couple in classy way. It will make a great gift in a lilac themed wedding.</p>
+<p>This three-dimensional design features a large heart made from cream, lilac and white ribbon roses combined with violet calla lilies and white gypsophila flowers. The whole composition is handcrafted with crystals and pearls.</p>
+<p>The card is beautifully presented in a luxury gift box. It can be personalised with your own words on front and inside, making it suitable for various occasions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7679247057144</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">43.95</s:price>
+      <s:sku>502WED</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/6723579216032</id>
+    <published>2021-05-27T15:52:31+01:00</published>
+    <updated>2021-05-27T15:52:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-luxury-boxed-handmade-wedding-card-wedding-bouquet"/>
+    <title>A4 Luxury Boxed Handmade Wedding Card ‘Wedding Bouquet’</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/501WED-1.jpg?v=1622119309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A truly luxurious card for a very special couple on their Special Day. During a wedding newlyweds will receive plenty of cards. But you can be sure this card will stand out among others. The card comes complete with a special gift box and can be personalised with your own words on front and inside.</p>
+<p>The design boasts a wedding bouquet of white and cream roses combined with lovely dried nigella orientalis and white gypsophila flowers. The whole arrangement is gorgeously handcrafted with crystals, small ribbon roses, hearts and large shimmering gold bow.</p>
+<p>This wedding card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/6723579216032</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">42.95</s:price>
+      <s:sku>501WED</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/6016635601056</id>
+    <published>2021-01-30T15:44:47+00:00</published>
+    <updated>2021-01-30T15:44:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-luxury-boxed-handmade-card-just-for-you"/>
+    <title>A4 Luxury Boxed Handmade Card ‘Just For You’</title>
+    <s:type>Valentine&apos;s Day Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/602vl-1.jpg?v=1612024728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Valentine&#39;s Day Cards<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send all your love to that special person in your life with this stylish extra-large personalised handmade card. Nothing says love more than a classic bouquet of red roses combined with lovely white gypsophila flowers. The whole arrangement is gorgeously handcrafted with crystals, red padded hearts and large shimmering red bow.</p>
+<p>The card is presented in our signature luxury gift box with a black velveteen frame inside. It can presonalised with you own message both on front and inside, making it a perfect card for a loved one on Valentine’s Day, for birthdays, anniversaries, weddings and engagements.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/6016635601056</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">42.95</s:price>
+      <s:sku>602VL</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/1553120231460</id>
+    <published>2019-08-20T20:05:57+01:00</published>
+    <updated>2019-08-20T20:05:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-wedding-card-classic-bridal-bouquet"/>
+    <title>Luxury Boxed Wedding Card &apos;Classic Bridal Bouquet&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/124WED-1.jpg?v=1566997457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            22.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send your love and best wishes for the future together to a happy couple with this stylish wedding card. Nothing says love more than a classic bouquet of red roses combined with lovely white gypsophila flowers to create this gorgeous card.  The card is presented in our signature luxury gift box with a black velveteen frame inside. It can customised with you own message both on front and inside, making it also a perfect keepsake gift for a ruby 40th anniversary.</p>
+<p>The main motif of the design is a classy bouquet made from red and silver ribbon roses and artificial white gypsophila flowers. The whole arrangement is mounted to the silver grey rose frame and handcrafted with crystals,  pearls, large white chiffon bow wand  small heart-shaped pendant.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/1553120231460</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">22.60</s:price>
+      <s:sku>124WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/1462036037668</id>
+    <published>2019-07-09T15:44:20+01:00</published>
+    <updated>2019-07-09T15:44:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-wedding-card-entwined-hearts"/>
+    <title>Luxury Boxed Wedding Card &apos;Entwined Hearts&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/123WED-1.jpg?v=1563001799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wish all the happiness in the world to a newlywed couple on their special day with this elegant and dainty handmade wedding card. The design features print of two entwined flower hearts, beautifully hand-crafted with crystals, metallic and wooden hearts, wooden 'love' letters, ivory ribbon roses, ribbons and bows.</p>
+<p>The card can be personalised with your own words on front and inside, and will make a special anniversary or engagement card too. It is beautifully presented in specially designed luxury gift box with a black velveteen frame inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/1462036037668</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">19.50</s:price>
+      <s:sku>123WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/1461305245732</id>
+    <published>2019-07-09T10:56:37+01:00</published>
+    <updated>2019-07-09T10:56:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-handmade-wedding-card-perfect-wedding"/>
+    <title>Luxury Handmade Wedding Card &apos;Perfect Wedding&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/122WED-1_-_Copy.jpg?v=1569324630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This absolutely stunning and very well made luxurious wedding design offers a lovely mix of card and gift to the newlywed couple. Only one of its kind and truly stylish, it comes in our signature luxury gift box with a black velveteen frame inside, and will be kept and treasured for many years. The card can be personalised with your own words on front and inside, making it suitable for numerous occasions - anniversary, engagement, birthday, etc.</p>
+<p>The main motif of the design the flower arrangement made from faux cream camellia flowers, greenery, ribbons and skeleton leaves. The whole arrangement is mounted to the white and cream paper frame in the middle of the card. Crystals and small ribbon roses are scattered over the frame, and large shimmering gold bow with clear heart-shaped pendant in the middle complete this stylish design.</p>
+<p>This card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/1461305245732</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">22.50</s:price>
+      <s:sku>122WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/874413719588</id>
+    <published>2018-08-20T10:10:06+01:00</published>
+    <updated>2018-08-20T10:10:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-wedding-card-happily-ever-after"/>
+    <title>Luxury Boxed Wedding Card &apos;Happily Ever After&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/121WED-1_1962e7ec-8168-4893-9874-80505b61c8fc.jpg?v=1534944125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed in silver and cream colours, this stylish and delicate design will be a great card congratulate newlyweds on their wedding day. Fully customisable with you own words and presented in our signature gift box full of silver silk rose petals, it will also make a perfect keepsake to congratulate a couple who marked life's special anniversary.</p>
+<p>The design features an elegant bouquet made from cream and silver ribbon roses, ivory satin and chiffon ribbons, and cream rose petals. The whole arrangement is mounted to the ivory rose frame and handcrafted with crystals, heart-shaped pendants and large silver ribbon bow.</p>
+<p>This wedding card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/874413719588</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.95</s:price>
+      <s:sku>121WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/868866621476</id>
+    <published>2018-08-15T15:45:38+01:00</published>
+    <updated>2018-08-15T15:45:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-engagement-card-two-hearts-one-soul"/>
+    <title>Luxury Boxed Engagement Card &apos;Two Hearts... One soul...&apos;</title>
+    <s:type>Engagement Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/104EN-1.jpg?v=1534344451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Engagement Cards<br>
+        <strong>Price: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A truly luxurious and striking engagement card presented in our signature gift box full of gold silk rose petals. The card would make an amazing gift for the happy couple who just got engaged. It will also be just perfect for any wedding or to congratulate a special couple who celebrate their golden anniversary.</p>
+<p>This three-dimensional design features the heart made from gold and ivory ribbon roses, and mounted to the print of ivory rose pattern frame in the middle of the card. The whole arrangement itself is gorgeously adorned with crystals, ribbons and clear heart-shaped pendant.</p>
+<p>This engagement card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/868866621476</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">19.95</s:price>
+      <s:sku>104EN</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/827944894500</id>
+    <published>2018-07-19T13:28:42+01:00</published>
+    <updated>2018-07-19T13:28:42+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-wedding-card-meant-to-be-together"/>
+    <title>Luxury Boxed Wedding Card &apos;Meant To Be Together&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/118WED-1.jpg?v=1533906094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            21.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This really classy and romantic individually boxed wedding card will be a great choice for sending your special wedding wishes to the happy couple on their big day. The card comes in a gift box full of gold and white rose petals for that extra special touch of luxury. The design features printed heart of roses beautifully adorned with ribbon roses, crystals and satin bow.</p>
+<p>This wedding card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/827944894500</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.85</s:price>
+      <s:sku>118WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/827944730660</id>
+    <published>2018-07-19T13:28:40+01:00</published>
+    <updated>2018-07-19T13:28:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-wedding-card-congratulations"/>
+    <title>Luxury Boxed Wedding Card &apos;Congratulations&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/120WED-1.jpg?v=1534263274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A truly gorgeous card for a special couple on their wedding day. Presented in luxurious gift box full of lilac and silver silk rose petals - it will make a really memorable keepsake. The design boasts a lovely lilac bouquet made from large and small ribbon roses, silk petals and satin ribbons. The whole arrangement is mounted to the lilac sakura frame and handcrafted with crystals, rhinestuds and large lilac satin ribbon bow.</p>
+<p>This wedding card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/827944730660</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.95</s:price>
+      <s:sku>120WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/827944632356</id>
+    <published>2018-07-19T13:28:37+01:00</published>
+    <updated>2018-07-19T13:28:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-wedding-card-fairytale-wedding"/>
+    <title>Luxury Boxed Wedding Card &apos;Fairytale Wedding&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/115WED-1.jpg?v=1547051448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A really gorgeous and elegant card for happy couple on their special Big Day. The design boasts print of bird cage mounted to the white and ivory paper frame stunningly hand crafted with pink and ivory ribbon roses and flowers, ; ivory satin ribbons and bow, and genuine crystals.</p>
+<p>This wedding card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/827944632356</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">18.45</s:price>
+      <s:sku>115WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/827944206372</id>
+    <published>2018-07-19T13:28:31+01:00</published>
+    <updated>2018-07-19T13:28:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-wedding-card-pair-of-love"/>
+    <title>Luxury Boxed Wedding Card
+&apos;Pair of Love&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/109WED-1.jpg?v=1534263207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+A really elegant card to present to a happy couple on their special Big Day. Coming in a luxury gift box it will make an ideal keepsake gift for two people who decided to spend the rest of their lives together.</p>
+<p>The card  features two heart shaped clear acrylic pendants mounted to white and cream paper hearts, tied together with ivory satin ribbons and gorgeously hand embellished with peach and clear genuine  crystals and cream satin bow. </p>
+<p>This wedding card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/827944206372</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">19.50</s:price>
+      <s:sku>109WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/827943911460</id>
+    <published>2018-07-19T13:28:22+01:00</published>
+    <updated>2018-07-19T13:28:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-wedding-card-wedding-toast"/>
+    <title>Luxury Boxed Wedding Card &apos;Wedding Toast&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/117WED-1.jpg?v=1533818770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            18.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lovely luxury boxed wedding card will be a perfect present by itself to a happy couple on their special wedding day.</p>
+<p>Classy design features print of two champagne glasses mounted to the white and silver paper frame in the middle of the card and gorgeously adorned with white ribbon roses, crystals, white satin bow with heart shaped acrylic pendant in the middle.</p>
+<p>This wedding card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>For Daughter and Son in Law</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/827943911460</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">18.85</s:price>
+      <s:sku>117WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/827941879844</id>
+    <published>2018-07-19T13:26:18+01:00</published>
+    <updated>2018-07-19T13:26:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-wedding-card-wedding-rococo"/>
+    <title>Luxury Boxed Wedding Card &apos;Wedding Rococo&apos;</title>
+    <s:type>Wedding Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/112WED-1.jpg?v=1533906088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Wedding Cards<br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This beautiful and striking luxury boxed wedding day card is a perfect way to wish bride and groom a very happy life together.</p>
+<p>The focal feature of the design is a lovely ivory giant rosette mounted to white and gold die cut paper heart and placed on small foam pads onto white and gold square paper frame which is overprinted with rococo style gold pattern. The whole arrangement is strikingly embellished by hand with ivory satin ribbon, white chiffon ribbon, genuine peach and crystal clear crystals, gold metallic hearts and ivory satin bow.</p>
+<p>This wedding card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/827941879844</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">18.95</s:price>
+      <s:sku>112WED</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+</feed>

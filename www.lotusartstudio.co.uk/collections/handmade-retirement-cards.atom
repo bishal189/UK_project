@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lotusartstudio.co.uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lotusartstudio.co.uk/collections/handmade-retirement-cards.atom"/>
+  <title>Lotus Art Studio</title>
+  <updated>2018-07-21T21:58:57+01:00</updated>
+  <author>
+    <name>Lotus Art Studio</name>
+  </author>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/831180111908</id>
+    <published>2018-07-21T21:58:57+01:00</published>
+    <updated>2018-07-21T21:58:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-retirement-card-iris-bouquet"/>
+    <title>Luxury Boxed Retirement Card &apos;Iris Bouquet&apos;</title>
+    <s:type>Retirement Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/101REC-1.jpg?v=1536259564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Retirement Cards<br>
+        <strong>Price: </strong>
+            18.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+A gorgeous card to give to your friend or colleague who is retiring. The design features print of iris bouquet mounted to the purple and white paper panels in the middle of the card and gorgeously hand decorated with lilac satin bow, heart shaped lilac pendant and crystals. </p>
+<p>This handmade retirement card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/831180111908</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">18.45</s:price>
+      <s:sku>101REC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+</feed>

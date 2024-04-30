@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lotusartstudio.co.uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lotusartstudio.co.uk/collections/handmade-graduation-cards.atom"/>
+  <title>Lotus Art Studio</title>
+  <updated>2022-07-22T16:19:36+01:00</updated>
+  <author>
+    <name>Lotus Art Studio</name>
+  </author>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7758223114488</id>
+    <published>2022-07-22T16:19:36+01:00</published>
+    <updated>2022-07-22T16:19:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-luxury-boxed-graduation-card-lets-celebrate"/>
+    <title>A4 Luxury Boxed Graduation Card &apos;Let&apos;s Celebrate’</title>
+    <s:type>Graduation Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/301GRC-1.jpg?v=1658502950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Graduation Cards<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This luxurious graduation card will be just perfect to congratulate a happy graduate on his/her special Graduation day. The design features a graduation bouquet of ribbon roses combined with lovely white gypsophila flowers, gold petals, brown ribbons and faux greenery. The whole arrangement is gorgeously handcrafted with crystals, black and gold mortar boards, gold paper scroll and large shimmering gold bow.</p>
+<p>The A4 graduation card can be personalised with your own wording on front and inside. It comes in n our signature luxury gift box, making it a perfect Graduation keepsake.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7758223114488</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">42.95</s:price>
+      <s:sku>301GRC</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/805326946340</id>
+    <published>2018-07-06T10:32:37+01:00</published>
+    <updated>2018-07-06T10:32:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-graduation-card-graduation-bouquet"/>
+    <title>Luxury Boxed Graduation Card &apos;Graduation Bouquet&apos;</title>
+    <s:type>Graduation Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/105GRC-1.jpg?v=1530869736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Graduation Cards<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A really special card for a special graduation celebrations. Presented in luxurious gift box full of gold silk rose petals - it will make a truly exceptional keepsake gift. The design features a graduation bouquet made from two beige giant rosettes, ribbon roses, black paper mortar board and handmade gold paper scroll. The whole composition is mounted to the print of zigzag frame and handcrafted with crystals, rhinestuds, small wooden stars die cut gold paper balloons.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/805326946340</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.95</s:price>
+      <s:sku>105GRC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/799946604580</id>
+    <published>2018-07-02T17:29:06+01:00</published>
+    <updated>2018-07-02T17:29:06+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-graduation-card-graduation-congratulations"/>
+    <title>Luxury Graduation Card &apos;Graduation Congratulations &apos;</title>
+    <s:type>Graduation Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/101GRC-1_822bed3a-fdb6-4953-9db8-fdfbbf8cbfc0.jpg?v=1530868436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Graduation Cards<br>
+        <strong>Price: </strong>
+            17.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This luxury graduation card for sure will delight any recipient on the Graduation day. The design features printed mortar board and graduation scroll placed on gold background and decorated with ivory satin ribbon bow. The year '2018' is placed on foam pads in the middle of the printed scroll and decorated with crystals and rhinestuds.</p>
+<p>This graduation card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/799946604580</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">17.55</s:price>
+      <s:sku>101GRC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/799946539044</id>
+    <published>2018-07-02T17:29:02+01:00</published>
+    <updated>2018-07-02T17:29:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-graduation-card-well-done"/>
+    <title>Luxury Boxed Graduation Card &apos;Well Done!&apos;</title>
+    <s:type>Graduation Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/103GRC-1.jpg?v=1530868717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Graduation Cards<br>
+        <strong>Price: </strong>
+            18.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+This stylish and classy graduation cards will make a great keepsake gift to any graduate and will be treasured for many years to come. The main feature of the design is a black and gold paper mortar board hand embellished with topaz  crystal, black square nailheads and twine tassel. </p>
+<p>This graduation card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/799946539044</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">18.25</s:price>
+      <s:sku>103GRC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/799946473508</id>
+    <published>2018-07-02T17:28:57+01:00</published>
+    <updated>2018-07-02T17:28:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-graduation-card-your-graduation"/>
+    <title>Luxury Boxed Graduation Card &apos;Your Graduation&apos;</title>
+    <s:type>Graduation Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/102GRC-1.jpg?v=1530868157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Graduation Cards<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send good luck and best wishes to a newly graduate with this beautiful graduation card from Lotus Art Studio. The design features printed graduation hat, handmade gold paper scroll with ivory satin bow and printed year '2018' mounted to the gold and black background in the middle of the card and carefully hand crafted with crystals, rhinestuds and nailheads .</p>
+<p>This graduation card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/799946473508</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">17.50</s:price>
+      <s:sku>102GRC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/799946407972</id>
+    <published>2018-07-02T17:28:55+01:00</published>
+    <updated>2018-07-02T17:28:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-graduation-card-graduation-celebrations"/>
+    <title>Luxury Boxed Graduation Card &apos;Graduation Celebrations&apos;</title>
+    <s:type>Graduation Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/104GRC-1.jpg?v=1530868822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Graduation Cards<br>
+        <strong>Price: </strong>
+            17.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+This individually boxed graduation card will be just simply perfect to wish a newly graduate a very happy graduation day. The design features print of words ''YOU DID IT' and 'graduation tag' mounted to the white and black paper frame in the middle of the design and handcrafted with  crystals, black square nailheads and stars, washi tape and gold paper scroll.</p>
+<p>This graduation card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/799946407972</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">17.25</s:price>
+      <s:sku>104GRC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/799946309668</id>
+    <published>2018-07-02T17:28:49+01:00</published>
+    <updated>2018-07-02T17:28:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/photo-graduation-card-congratulations-on-graduation"/>
+    <title>Photo Graduation Card &apos;Congratulations on Graduation&apos;</title>
+    <s:type>Graduation Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/201GRC-1.jpg?v=1530868915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Graduation Cards<br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+Elegant graduation photo card will be personalised with your favourite graduate's photo placed on the raised pad on the background with printed mortar board pattern and decorated with ivory satin bow,  crystals and rhinestuds.</p>
+<p>This graduation card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:tag>With photo upload</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/799946309668</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">17.50</s:price>
+      <s:sku>201GRC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+</feed>

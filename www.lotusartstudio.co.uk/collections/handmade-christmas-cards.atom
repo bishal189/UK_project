@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lotusartstudio.co.uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lotusartstudio.co.uk/collections/handmade-christmas-cards.atom"/>
+  <title>Lotus Art Studio</title>
+  <updated>2023-12-06T08:48:59+00:00</updated>
+  <author>
+    <name>Lotus Art Studio</name>
+  </author>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/8215571366136</id>
+    <published>2023-12-06T08:48:59+00:00</published>
+    <updated>2023-12-06T08:48:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-luxury-boxed-christmas-card-santas-stocking"/>
+    <title>A5 Luxury Boxed Christmas Card &apos;Santa&apos;s Stocking&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/files/086CHL-1.jpg?v=1701851207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            23.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So Christmassy, so cheerful, so merry and so appreciated by anyone who will receive it. Convey the spirit of Christmas in memorable way with this fabulously hand-crafted Santa's Stocking card featuring a large gold paper Christmas stocking gorgeously bejewelled with frosted branches and berries, pom poms and gold paper roses, gold padded stars, crystals and gold satin bow. The card itself hand finished with gold metallic and wooden stars. It is beautifully presented in luxury gift box and can be personalised with a personal message on front and inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__red-insert</s:tag>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/8215571366136</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">23.50</s:price>
+      <s:sku>086CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/8200105722104</id>
+    <published>2023-11-17T15:03:59+00:00</published>
+    <updated>2023-11-17T15:03:59+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-boxed-handmade-christmas-card-classic-pine-wreath"/>
+    <title>A4 Boxed Handmade Christmas Card ‘Classic Pine Wreath’</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/files/708CHL-1.jpg?v=1700231877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A really elegant card to wish someone a Merry Christmas. Wonderful choice for anyone who likes a good design and attention to detail. Presented is a special box and personalised with your own words, this card are not just a card but also a wonderful keepsake.</p>
+<p>The main feature of the design is a traditional Christmas wreath made from faux pine branches and greenery. The arrangement is decorated with white gypsophila flowers, natural dried flax and golden bells. Green moss chiffon ribbon on the wreath completes this classy design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/8200105722104</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">43.50</s:price>
+      <s:sku>708CHL</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/5909344977056</id>
+    <published>2023-11-15T15:56:25+00:00</published>
+    <updated>2023-11-15T15:56:25+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-boxed-handmade-christmas-card-magic-time"/>
+    <title>A4 Boxed Handmade Christmas Card ‘Magic Time’</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/files/709CHL-1.jpg?v=1700048636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A special card for a special person in your life at Christmas time. This Christmas card is unique and personal, and can be personalised with any words you like on front and inside. It will make a great Christmas gift in itself for your Husband or Wife, Boyfriend and Girlfriend, Fiancé or Fiancée, or any other special person.</p>
+<p>The design boasts a festive bouquet made from faux foliage and frosted branches, artificial flowers and ribbon roses, pearl bead spray and bunny tails, wooden snowflakes, stars and beige satin ribbons. The card is beautifully presented in luxury gift box with a black velveteen frame inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/5909344977056</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">43.50</s:price>
+      <s:sku>702CHL</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/8174150025464</id>
+    <published>2023-11-10T15:45:16+00:00</published>
+    <updated>2023-11-10T15:45:16+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-boxed-handmade-christmas-card-festive-wreath"/>
+    <title>A5 Boxed Handmade Christmas Card &apos;Festive Wreath&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/files/084CHL-1.jpg?v=1699022836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This handmade Christmas card is truly luxurious and personal, and can be customised with your own words both on front inside. The box and presentation make this look like a gift in itself. The main feature of the design is a Christmas wreath made from green pine and frosted branches. The arrangement is embellished with white wooden snowflakes, stars, silver padded stars and paper roses. Green stain bow with crystal in the middle adds dimension and completes this classy design. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/8174150025464</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">22.50</s:price>
+      <s:sku>084CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/8174152581368</id>
+    <published>2023-11-10T15:35:48+00:00</published>
+    <updated>2023-11-10T15:35:48+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-boxed-handmade-christmas-card-midwinter-bouquet"/>
+    <title>A5 Boxed Handmade Christmas Card &apos;Midwinter Bouquet&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/files/083CHL-1.jpg?v=1699023553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            23.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This gorgeous ' Midwinter Bouquet' hand made card is sure to thrill everyone on your Christmas card list. The creative design features festive bouquet made from dried grasses and artificial branches, gold frosted berries and paper roses, perfect for wishing loved ones a Merry Christmas. Scattered crystals and stars complete the look of this magical festive motif. This Christmas card is beautifully presented in a gift box and can be personalised with your own message on front and inside.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/8174152581368</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">23.50</s:price>
+      <s:sku>083CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7866130399480</id>
+    <published>2022-11-11T20:57:00+00:00</published>
+    <updated>2022-11-11T20:57:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-luxury-handmade-christmas-card-winter-bouquet"/>
+    <title>A4 Luxury Handmade Christmas Card ‘Winter Bouquet’</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/707CHL-1.jpg?v=1668199559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A special card for a special person in your life at Christmas time. This Christmas card is so unique and personal, and can be personalised with any words you like on front and inside. Presented in luxurious gift box, it will make a great Christmas gift in itself for your Husband or Wife, Boyfriend and Girlfriend, Fiancé or Fiancée, or any other special person.</p>
+<p>The design boasts a winter bouquet made from faux foliage, purple dried grass, purple and white ribbon roses, and tied together with shimmering gold ribbon bow. The whole arrangement gorgeously handcrafted with clear bead spray, pom poms, flowers and stars.</p>
+<p>This luxury Christmas card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7866130399480</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">43.50</s:price>
+      <s:sku>707CHL</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7824910156024</id>
+    <published>2022-09-30T20:45:33+01:00</published>
+    <updated>2022-09-30T20:45:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-boxed-handmade-christmas-card-ivory-and-green-festive-bauble"/>
+    <title>A5 Boxed Handmade Christmas Card &apos;Ivory and Green Festive Bauble&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/079CHL-1.jpg?v=1664461077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 'Ivory and Green Festive Bauble' Xmas card features the bauble made from faux pine branches and greenery, natural dried flax and bunny tails, frosted berries and ivory petal flower in the middle. The card can be personalised with your personal message on front and inside. Each card comes in an individual luxury gift box with a black velveteen frame inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7824910156024</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.95</s:price>
+      <s:sku>079CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7824828924152</id>
+    <published>2022-09-30T20:44:26+01:00</published>
+    <updated>2022-09-30T20:44:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-boxed-handmade-christmas-card-nordic-christmas-bouquet"/>
+    <title>A5 Boxed Handmade Christmas Card &apos;Nordic Christmas Bouquet&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/081CHL-1.jpg?v=1664454299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 'Nordic Christmas Bouquet' festive card features the bouquet made from faux foliage and branches, ribbon flowers and glittered stars, ribbons, pom poms and a large shimmering silver ribbon bow. The card can be personalised with your personal Christmas message on front and inside. Each card comes in an individual luxury gift box with a black velveteen frame inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7824828924152</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">22.50</s:price>
+      <s:sku>081CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7824939385080</id>
+    <published>2022-09-30T20:43:02+01:00</published>
+    <updated>2022-09-30T20:43:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-boxed-handmade-christmas-card-red-and-green-festive-bauble"/>
+    <title>A5 Boxed Handmade Christmas Card &apos;Red and Green Festive Bauble&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/078CHL-1.jpg?v=1664463447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 'Red and Green Festive Bauble' Christmas card features the bauble made from artificial pine branches and greenery, natural dried flax and red bunny tails, frosted berries and red petal flower in the middle. The card can be personalised with your personal festive message on front and inside. Each card comes in an individual luxury gift box with a black velveteen frame inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__red-insert</s:tag>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7824939385080</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.95</s:price>
+      <s:sku>078CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7825669783800</id>
+    <published>2022-09-30T16:59:20+01:00</published>
+    <updated>2022-09-30T16:59:20+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-boxed-handmade-christmas-card-festive-tree"/>
+    <title>A5 Boxed Handmade Christmas Card &apos;Festive Tree&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/077CHL-1.jpg?v=1664550319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            21.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The 'Festive Tree' Christmas card features the festive tree made from silver chiffon ribbon, pom poms, padded stars and faux greenery . The card can be personalised with your personal message on front and inside. Each card comes in an individual luxury gift box with a black velveteen frame inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7825669783800</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.50</s:price>
+      <s:sku>077CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7452277309688</id>
+    <published>2021-11-21T21:35:26+00:00</published>
+    <updated>2021-11-21T21:35:26+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-boxed-photo-christmas-card-christmas-together"/>
+    <title>A4 Boxed Photo Christmas Card &apos;Christmas Together&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/706CHL-1.jpg?v=1636931025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This elegant photo Christmas card for sure can be a perfect keepsake gift for your family this Holiday Season. It will be personalised with your favourite photo mounted to the pearl and grey paper frame in the middle of the card. Your chosen photograph will be surrounded with handmade Christmas garland made from faux foliage and glitter branches, flowers, berries, wooden snowflakes, pom poms and crystal clear bead sprays. This card can be personalised to your own requirements and comes in s lovely gift box.</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:tag>With photo upload</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7452277309688</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">43.50</s:price>
+      <s:sku>706CHL</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7117978763424</id>
+    <published>2021-11-06T14:01:38+00:00</published>
+    <updated>2021-11-06T14:01:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-luxury-handmade-christmas-card-christmas-bliss"/>
+    <title>A4 Luxury Handmade Christmas Card &apos;Christmas Bliss&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/705CHL-1.jpg?v=1636199534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            42.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>So Christmassy, so blissful, so merry and so appreciated by anyone who will receive it. Convey the spirit of Christmas in a remarkable way with this fabulously hand-crafted Christmas Bliss card featuring a large festive bouquet made from faux pine branches, twigs, ribbons and flowers and gorgeously bejewelled with crystals, pine cones, frosted berries and stars. The whole arrangement is tied together with large shimmering red bow.</p>
+<p>The card comes in our special luxury gift box with a black velveteen frame inside. It can customised with you own personal message on the cover and inside, making it a perfect Christmas handmade card for that special person in your life this Christmas.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7117978763424</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">42.95</s:price>
+      <s:sku>705CHL</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7093773893792</id>
+    <published>2021-10-24T11:18:54+01:00</published>
+    <updated>2021-10-24T11:18:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-boxed-handmade-christmas-card-christmas-wonderland"/>
+    <title>A5 Boxed Handmade Christmas Card &apos;Christmas Wonderland’</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/075CHL-1.jpg?v=1635070414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            21.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"Sleigh bells ring, are you listening?" The wonder of Christmas time comes alive in the beautiful design of this creative festive card. The combination of silver, mauve and white produce a look that is so frosty you can almost feel it! Wooden snowflakes, tiny metallic stars and jewels flutter across the card and wreath and add that winter feel to the Christmas wonderland theme.</p>
+<p>This luxury handmade card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7093773893792</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">21.50</s:price>
+      <s:sku>075CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7091096748192</id>
+    <published>2021-10-22T16:58:29+01:00</published>
+    <updated>2021-10-22T16:58:29+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a4-luxury-handmade-christmas-card-christmas-with-you"/>
+    <title>A4 Luxury Handmade Christmas Card ‘Christmas With You’</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/704CHL-1.jpg?v=1634912404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            43.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get all romantic and memorable this Christmas with this delightful and charming handmade card! Fully customisable with your special festive message, it will make a great Christmas present for someone very special in your life - someone you truly love. It will also be a perfect card for the first Christmas together.</p>
+<p>This three-dimensional card features the heart made from faux pine and eucalyptus branches, ribbon roses, grey petal flowers, pom poms and frosted berries. White wooden snowflakes, crystals and silver metallic stars are scattered on the card around the heart. The card comes in a beautiful luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-xlarge</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A4 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7091096748192</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">43.50</s:price>
+      <s:sku>704CHL</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/7086347944096</id>
+    <published>2021-10-20T14:52:17+01:00</published>
+    <updated>2021-10-20T14:52:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/a5-luxury-handmade-christmas-card-holiday-cheer"/>
+    <title>A5 Luxury Handmade Christmas Card &apos;Holiday Cheer&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/074CHL-1.jpg?v=1670929345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            22.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Send your special Christmas wishes to your family of friends with this truly classy handmade Christmas bouquet card. The design features a gorgeous festive bouquet made from faux pine branches and flowers, and tied together with a white bow with stars. The glitter silver garland give the card a frosty look, while red frosted berries retain the traditional feel. The whole arrangement is handcrafted with crystals, pom poms and small silver stars.</p>
+<p>This luxury Christmas card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__red-insert</s:tag>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/7086347944096</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">22.25</s:price>
+      <s:sku>074CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/4374570926212</id>
+    <published>2019-11-22T23:13:09+00:00</published>
+    <updated>2019-11-22T23:13:09+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-christmas-card-christmas-surprise"/>
+    <title>Luxury Boxed Christmas Card &apos;Christmas Surprise&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/070CHL-5.jpg?v=1667573372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            22.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This outstanding handcrafted gold winter bouquet expresses the merry sentiments of the Festive Season. It will make a great keepsake gift for any special people in your life - Mum and Dad, Husband or Wife, Boyfriend or Girlfriend. During a Holiday Season they will receive plenty of cards but you can be sure this card will stand out among others. Just imagine your loved ones face when they open the box to find their very own name written on this handmade Christmas card.</p>
+<p>The design boasts a festive bouquet made from faux foliage and preserved leaves, ribbons, bead sprays and glittery ferns, and tied together with shimmering gold ribbon bow. The whole arrangement adorned with crystals, pom poms, flowers and stars.</p>
+<p>This luxury Christmas card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/4374570926212</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">22.50</s:price>
+      <s:sku>070CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/1080675303460</id>
+    <published>2019-01-02T15:36:53+00:00</published>
+    <updated>2019-01-02T15:36:53+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-new-year-card-happy-new-year"/>
+    <title>Luxury Boxed New Year Card &apos;Happy New Year&apos;</title>
+    <s:type>New Year Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/101NYC-1.jpg?v=1546446446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>New Year Cards<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New Year is just around the corner and this festive Happy New Year card for sure will delight your family and friends. The simple scheme is timeless. The design features a New Year clock beautifully adorned with faux greenery, pine cones, silver glitter ferns, wooden snowflakes and buttons. Pom poms, crystals and stars are scattered over design to complete the festive look.</p>
+<p>This luxury New Year card is beautifully presented in luxury brown gift box with a black velveteen frame inside for maximum presentation. It can be personalised with your own Happy New Year greetings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/1080675303460</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">20.95</s:price>
+      <s:sku>001NYC</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/1008004661284</id>
+    <published>2018-11-07T18:48:14+00:00</published>
+    <updated>2018-11-07T18:48:14+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-christmas-card-merry-christmas-from-our-house-to-yours"/>
+    <title>Luxury Boxed Christmas Card &apos;Merry Christmas From Our House To Yours&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/064CHL-1.jpg?v=1544915430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            20.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Christmas wreath has been a welcoming symbol of Christmas for hundreds of years. This beautifully designed card features a green Christmas wreath, adorned with red berries and golden bells. The wreath is hanging on the print of the red door with burgundy satin bow, ribbon roses and pine cones below the wreath, adding dimension to the design. Sparkly red crystals and tiny gold stars are sprinkled here and there around the wreath, to create a magical Christmas look.</p>
+<p>This luxury Christmas card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__red-insert</s:tag>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/1008004661284</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">20.25</s:price>
+      <s:sku>064CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/1005462093860</id>
+    <published>2018-11-06T12:09:47+00:00</published>
+    <updated>2018-11-06T12:09:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-christmas-card-silver-snowflake"/>
+    <title>Luxury Boxed Christmas Card &apos;Silver Snowflake&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/066CHL-5.jpg?v=1664543271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The simple design and classic Christmas ornament style of this festive card make it charming to anyone who receives it. The design boasts large silver glitter snowflake mounted to the grey and black frame in the centre of the card and beautifully hand-embellished with wooden and metallic stars, crystals, pom poms, faux green eucalyptus foliage and silver ribbon bow.</p>
+<p>This luxury Christmas card is comes in luxury gift box with a black velveteen frame inside and can be personalised with your own words on front and inside.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/1005462093860</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">20.95</s:price>
+      <s:sku>066CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lotusartstudio.co.uk/products/1005429456932</id>
+    <published>2018-11-06T11:36:08+00:00</published>
+    <updated>2018-11-06T11:36:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lotusartstudio.co.uk/products/luxury-boxed-christmas-card-gold-snowflake"/>
+    <title>Luxury Boxed Christmas Card &apos;Gold Snowflake&apos;</title>
+    <s:type>Christmas Cards</s:type>
+    <s:vendor>Lotus Art Studio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1484/2792/products/063CHL-1.jpg?v=1541504317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lotus Art Studio<br>
+        <strong>Type: </strong>Christmas Cards<br>
+        <strong>Price: </strong>
+            20.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our 'Gold Snowflake' Christmas card is the perfect way to send your special Christmas wishes to your near and dear ones this festive season. The card features large gold glitter snowflake mounted to the black and gold frame in the middle of the card and handcrafted with wooden and metallic stars, crystals, pom poms, two decorative pine cones and black bow.</p>
+<p>This luxury Christmas card is beautifully presented in luxury gift box with a black velveteen frame inside for maximum presentation.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__tab1:delivery-luxury</s:tag>
+    <s:tag>__white-insert</s:tag>
+    <s:tag>A5 Luxury Boxed Card</s:tag>
+    <s:tag>In luxury gift box</s:tag>
+    <s:variant>
+      <id>https://www.lotusartstudio.co.uk/products/1005429456932</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">20.95</s:price>
+      <s:sku>063CHL</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+</feed>
