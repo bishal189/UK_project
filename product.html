@@ -765,33 +765,7 @@
                      <aside class="section section--padded related-products" data-products-count="4">
                         <div class="inner inner-related">
                            <h3 class="section__title">You may also like</h3>
-                           <div class="grid grid--gallery grid--center grid--middle">
-                              <div class="related-products__item grid__cell 1/2 1/4--handheld 1/4--lap-and-up">
-                                 <a href="luxury-handmade-birthday-card-simply-beautiful.html">
-                                    <div class="aspect-ratio" style="padding-bottom: 100.0%">
-                                       <img class="lazyload image--fade-in" data-src="../../../cdn/shop/products/131BH-6_%7bwidth%7dx56a0.html?v=1645536009" data-widths="[200,300,400,600,800,900,1000]" data-sizes="auto" alt="Luxury Boxed Birthday Card 'Simply Beautiful'">
-                                    </div>
-                                 </a>
-                              </div>
-                              <div class="related-products__item grid__cell 1/2 1/4--handheld 1/4--lap-and-up">
-                                 <a href="a4-luxury-boxed-handmade-card-just-for-you.html">
-                                    <div class="aspect-ratio" style="padding-bottom: 100.0%">
-                                       <img class="lazyload image--fade-in" data-src="../../../cdn/shop/products/602vl-1_%7bwidth%7dx76cb.html?v=1612024728" data-widths="[200,300,400,600,800,900,1000]" data-sizes="auto" alt="A4 Luxury Boxed Handmade Card ‘Just For You’">
-                                    </div>
-                                 </a>
-                              </div>
-                              <div class="related-products__item grid__cell 1/2 1/4--handheld 1/4--lap-and-up">
-                                 <a href="a5-boxed-handmade-birthday-card-mellow-bouquet.html">
-                                    <div class="aspect-ratio" style="padding-bottom: 100.0%">
-                                       <img class="lazyload image--fade-in" data-src="../../../cdn/shop/products/137BH-1-1_%7bwidth%7dx08f2.html?v=1674047155" data-widths="[200,300,400,600,800,900,1000]" data-sizes="auto" alt="A5 Boxed Handmade Birthday Card ‘Mellow Bouquet’">
-                                    </div>
-                                 </a>
-                              </div>
-
-
-
-
-
+                           <div id="related" class="grid grid--gallery grid--center grid--middle">
 
                            </div>
                         </div>
@@ -823,9 +797,6 @@
                         if (toDate.is().sunday()) {
                           toDate = toDate.next().monday();
                         }
-
-
-
 
                         var production_time_48 = 1 + 0;
 
@@ -1137,10 +1108,23 @@
               productDetails.insertAdjacentHTML('beforeend', productHtml);
             document.getElementById('description').textContent=productData.description
          }
+        const related=document.getElementById('related')
+        for (let i=0;i<3;i++){
 
+         const relatedProducts=`
+               <div class="related-products__item grid__cell 1/2 1/4--handheld 1/4--lap-and-up">
+                                 <a href="product.html?product_name=${datas[i].name}">
+                                    <div class="aspect-ratio" style="padding-bottom: 100.0%">
+                                       <img class="lazyload image--fade-in" data-src="${datas[i].image}" data-widths="[200,300,400,600,800,900,1000]" data-sizes="auto" alt="${datas[i].name}">
+                                    </div>
+                                 </a>
+                              </div>
+                              `
+        related.insertAdjacentHTML('beforeend', relatedProducts);
+
+}
 
          })
          </script>
       </body>
-      <!-- Mirrored from www.lotusartstudio.co.uk/collections/handmade-birthday-cards/products/a4-boxed-handmade-birthday-card-heart-of-daisies by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 30 Apr 2024 04:17:09 GMT -->
    </html>
