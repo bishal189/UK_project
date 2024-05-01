@@ -107,15 +107,75 @@ function returnData() {
 
   },
      {
-    name: "Beautiful Handmade Lemon Birthday Card",
+    name: "Beautiful Handmade Birthday Card Girl with red balloons Banksy style",
     price: "4.49",
     description:
-      " Beautiful handmade, layered 3D fruit and floral birthday card. Made from sturdy embossed cardstock, adorned with cheery lemon appliques and fruit blossoms. Perfect for that special someone who deserves the time and attention that is lovingly put into each handcrafted item. Measuring 4.25in x 5.5 in. Inside is left blank for your own message. Each card is accompanied by handmade envelope and is shipped sealed in a cellophane bag for security and protection. Potential for personalisation, please message with requirements and I will do my best..",
+      " Beautiful handmade, layered birthday card. Made from sturdy cardstock in white, red and black. Perfect for that special someone who deserves the time and attention that is lovingly put into handmade goods. Measuring 5in x 7in. Each card is accompanied by handmade envelope and is shipped sealed in a cellophane bag for security and protection. Potential for personalisation, please message with requirements and I will do my best..",
           details:[
         "Handmade","Delivery from a small business in United Kingdom","Materials: cardstock, glue","Delivery cost: £5.55","Returns and exchanges not accepted"
       ],
-    image: "../assets/zetsy_lemon.avif",
-        large_image:"../assets/zetsy_lemon_lg.avif",
+    image: "../assets/celendate.avif",
+        large_image:"../assets/celendate_lg.avif",
+
+  },
+      {
+    name: "Beautiful scenic Handmade Greeting Card Enjoy your Day Sunrise or Good Luck Meadow",
+    price: "4.49",
+    description:
+      "  Beautiful handmade, scenic card greeting cards. Choice of an ink blended pink and green meadow, with a Good Luck message or a sunrise wildflower silhouette, card which urges someone to “Enjoy your day”. Made from sturdy ink blended cardstock. Perfect for that special someone who deserves the time and attention that is lovingly put into each handcrafted card. Measuring 4.25in x 5.5 in. Inside is left blank for your own message. Each card is accompanied by a handmade envelope and is shipped sealed in a cellophane bag for security and protection. Potential for personalisation, please message with requirements and I will do my best to accommodate.",
+          details:[
+        "Handmade","Delivery from a small business in United Kingdom","Materials: cardstock, glue","Delivery cost: £5.55","Returns and exchanges not accepted"
+      ],
+    image: "../assets/scenic.avif",
+        large_image:"../assets/scenic_lg.avif",
+
+  },
+      {
+    name: "Beautiful scenic Handmade Thanks or Thank You Card",
+    price: "4.49",
+    description:
+      "Beautiful handmade, sunset layered thank you card. Made from sturdy ink blended cardstock with wildflower silhouette or moon feature. Perfect for that special someone who deserves the time and attention that is lovingly put into handmade goods. Measuring 4.25in x 5.5 in. Each card is accompanied by handmade envelope and is shipped sealed in a cellophane bag for security and protection. Potential for personalisation, please message with requirements and I will do my best..",
+          details:[
+        "Handmade","Delivery from a small business in United Kingdom","Materials: cardstock, glue","Delivery cost: £5.55","Returns and exchanges not accepted"
+      ],
+    image: "../assets/scenic_thanks.avif",
+      large_image:"../assets/scenic_thanks_lg.avif",
+
+  },
+      {
+    name: "Beautiful Handmade Greeting Card, For You or On Your Special Day, Any occasion card, Choice of classic monotone or bright colourway",
+    price: "4.49",
+    description:
+      "  Beautiful handmade, layered floral card. Choice of greeting - On Your Special Day or For You card. Made from sturdy cardstock, each with a detailed background and a choice of a bright colourway or a classic monotonal colourway, both complete with embellishments. Perfect for that special someone who deserves the time and attention that is lovingly put into each crafted item. Measuring 4.25in x 5.5 in. Inside is left blank for your message. Each card is accompanied by handmade envelope and is shipped sealed in a cellophane bag for security and protection. Potential for personalisation, please message with requirements and I will do my best to accomodate..",
+          details:[
+        "Handmade","Delivery from a small business in United Kingdom","Materials: cardstock, glue","Delivery cost: £5.55","Returns and exchanges not accepted"
+      ],
+    image: "../assets/handmade_greeting.avif",
+        large_image:"../assets/handmade_greeting_lg.avif",
+
+  },
+    {
+    name: "Beautiful Handmade Birthday Card, red, green or beige",
+    price: "4.49",
+    description:
+      "Beautiful handmade, layered birthday card. Made from sturdy cardstock in either red, green or beige with complimentary shades of red, pink or purple flowers, complete with metallic accents. Perfect for that special someone who deserves the time and attention that is lovingly put into handmade goods. Measuring 4.25in x 5.5 in. Each card is accompanied by handmade envelope and is shipped sealed in a cellophane bag for security and protection. Potential for personalisation, please message with requirements and I will do my best.",
+          details:[
+        "Handmade","Delivery from a small business in United Kingdom","Materials: cardstock, glue","Delivery cost: £5.55","Returns and exchanges not accepted"
+      ],
+    image: "../assets/handmade_birthday.avif",
+        large_image:"../assets/handmade_birthday_lg.avif",
+
+  },
+      {
+    name: "Handmade Barbie style Birthday Card",
+    price: "4.49",
+    description:
+      " Beautiful handmade, layered Barbie style birthday card. Made from sturdy cardstock in classic Barbie pink and black, complete with silhouette doll head and embellishment accents. Perfect for that special someone who deserves the time and attention that is lovingly put into each handcrafted card. Measuring 4.25in x 5.5 in. Inside is left blank for your own message. Each card is accompanied by a handmade envelope and is shipped sealed in a cellophane bag for security and protection. Potential for personalisation, please message with requirements and I will do my best to accommodate.",
+          details:[
+        "Handmade","Delivery from a small business in United Kingdom","Materials: cardstock, glue","Delivery cost: £5.55","Returns and exchanges not accepted"
+      ],
+    image: "../assets/handmade_barbie.avif",
+        large_image:"../assets/handmade_barbie_lg.avif",
 
   },
 ];
