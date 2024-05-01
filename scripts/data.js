@@ -1,4 +1,6 @@
-data = [
+
+function returnData() {
+  const data = [
   {
     name: "Beautiful Handmade Vegas Wedding Card",
     price: "4.49",
@@ -21,8 +23,6 @@ data = [
     image: "../assets/handmade.avif"
   }
 ];
-
-function returnData() {
-  console.log(data);
+console.log(data)
   return data;
 }
